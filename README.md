@@ -78,6 +78,7 @@ Ce projet permet de lire un fichier texte contenant des mots, de les classer et 
 
 ---
 
+## QUELQUE OPERATIONS
 ![Image 1](s1.png)
 ![Image 2](s2.png)
 ![Image 3](s3.png)
