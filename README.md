@@ -78,5 +78,10 @@ Ce projet permet de lire un fichier texte contenant des mots, de les classer et 
 
 ---
 
-## AREZKI Liticia
+![Image 1](s1.png)
+![Image 2](s2.png)
+![Image 3](s3.png)
+![Image 4](s4.png)
+![Image 5](s5.png)
+
   
