@@ -73,12 +73,14 @@ Ce projet permet de lire un fichier texte contenant des mots, de les classer et 
    - Insérer un mot  
    - Supprimer un mot  
    - Compter les mots  
-   - Afficher la taille des listes  
+   - Afficher la taille des listes
+   - avec plusieurs options 
 5. Quitter le programme pour libérer la mémoire et fermer le fichier.
 
 ---
 
-## QUELQUE OPERATIONS
+## Quelques opérations
+
 ![Image 1](s1.png)
 ![Image 2](s2.png)
 ![Image 3](s3.png)
